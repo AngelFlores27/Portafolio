@@ -1,0 +1,12 @@
+header {
+    text-align: left;
+    background: #13293d;
+    color: #fff;
+}
+
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    color: #fff;
+   
+}
