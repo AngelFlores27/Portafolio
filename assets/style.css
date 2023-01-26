@@ -32,8 +32,9 @@ nav a {
   text-decoration: none;
 }
 main {
-  display: flex;
+display: flex;
 justify-content: space-evenly;
+padding: 10px;
 background-color: rgb(255, 255, 255);
 }
 
